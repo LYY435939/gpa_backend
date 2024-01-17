@@ -1,0 +1,12 @@
+aiohttp==3.8.4
+APScheduler==3.9.1
+beautifulsoup4==4.11.2
+Django==3.2
+fake_headers==1.0.2
+func_timeout==4.3.5
+pycryptodome==3.17
+PyMySQL==1.0.2
+requests==2.27.0
+mysqlclient==2.0.3
+gunicorn==20.1.0
+lxml==4.6.1
